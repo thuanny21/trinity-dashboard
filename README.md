@@ -1,5 +1,5 @@
 # trinity-dashboard
-projeto estudo - dashboard - front em vue e back laravel
+projeto estudo - dashboard - front em vue e back laravel + mysql
 
 
-# Estudos sobre vue + laravel + mysql
+
